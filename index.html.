@@ -1,0 +1,22 @@
+<html>
+<title>МАГАЗИН МЕРЧА (НЕ РАЗВОД) </title>
+    <body style="background-color:#8FBC8F">
+       <header style="text-align:center">магазин (НЕ РАЗВОД)</header>
+       
+         <main>
+            <p>Наш магазин очень популярен по всему миру, наш товар полностью оригинальный и не имеет подделок! САМЫЕ СВЕЖИЕ МЕРЧИ ТОЛЬКО У НАС!</p>
+            <img src="https://images.wbstatic.net/c246x328/new/20830000/20831764-1.jpg"/>
+            
+            
+<table style="border:2px solid">  
+    <tr>
+        <td>мерч А4-1000000руб.</td>   
+        <td>мерч Ивангая-999999руб.</td>
+    </tr>
+</table>
+         </main>
+         <footer>
+             деревня.Путиный ул.Трампа д.51
+             </footer>
+    </body>
+</html>
